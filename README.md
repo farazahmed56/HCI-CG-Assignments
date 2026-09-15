@@ -22,5 +22,7 @@ New lab tasks, assignments, and projects will be added as the course progresses.
 
 ## Author
 **Faraz Ahmed**
+
 **Roll No: 2K24/CSE/51**
-**BS CS Part-III Pre-Engs Morning**
+
+**BS CS Part-III Pre-Eng Morning**
